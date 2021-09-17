@@ -113,7 +113,8 @@ header{
  .container{
     width: 100%;
     height: auto;
-    background-color: #D9B1B3;  
+    background-color: #D9B1B3;
+    overflow: hidden;  
 }   
 
 .menu h1{
